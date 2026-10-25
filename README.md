@@ -393,6 +393,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [On The Run Vegas](https://github.com/caramelcupcakes842/On-The-Run-Vegas-Decomp)
 - [On The Run: The Getaway](https://github.com/caramelcupcakes842/On-The-Run-The-Getaway)
 - [Onegai Monsters](https://github.com/ryan-myers/onegaimonsters)
+- [Open Annihilation](https://github.com/open-annihilation/open-annihilation)
 - [Oregon Trail II](https://github.com/katstasaph/otii)
 - [Pac Man](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Pac-Man)
 - [Panzer Dragoon Saga](https://github.com/yaz0r/Azel)
