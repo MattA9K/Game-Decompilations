@@ -641,6 +641,7 @@ Like what you see? [⭐ The Github Repo!](https://github.com/SamidyFR/Game-Decom
 - [Tomb Raider: Legend](https://github.com/TheIndra55/cdcEngine)
 - [Tomba!](https://github.com/hansbonini/psx_tomba)
 - [Tony Hawk's Pro Skater 2 Demo](https://github.com/emoluvjd2/thps2-demo-decomp)
+- [Total Annihilation](https://github.com/open-annihilation/open-annihilation)
 - [Touhou 08: Imperishable Night](https://github.com/GensokyoClub/th08)
 - [Touhou Koumakyou: The Embodiment of Scarlet Devil](https://github.com/happyhavoc/th06)
 - [Touhou PC-98](https://github.com/nmlgc/ReC98)
